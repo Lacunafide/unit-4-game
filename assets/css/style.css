@@ -1,0 +1,14 @@
+#background {
+    background-image: url("/assets/images/Eoz3Ka.jpg");
+}
+
+.container {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 150%;
+}
+
+#name {
+    font-size:175%;
+    font-weight: bold;
+    text-align: center;
+}
