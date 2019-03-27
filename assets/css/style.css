@@ -1,14 +1,33 @@
 #background {
-    background-image: url("/assets/images/Eoz3Ka.jpg");
+    background-size: 100% auto;
+    background-position:left bottom; 
 }
 
 .container {
     font-family: 'Orbitron', sans-serif;
     font-size: 150%;
+    text-align: center;
 }
 
 #name {
     font-size:175%;
     font-weight: bold;
     text-align: center;
+}
+
+#crystal1 {
+    max-width: 10%;
+    height: auto;
+}
+#crystal2 {
+    max-width: 10%;
+    height: auto;
+}
+#crystal3 {
+    max-width: 10%;
+    height: auto;
+}
+#crystal4 {
+    max-width: 10%;
+    height: auto;
 }
