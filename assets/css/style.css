@@ -1,6 +1,5 @@
-#background {
-    background-size: 100% auto;
-    background-position:left bottom; 
+body {
+    background-image: url("https://wpmisc.com/sites/default/files/wallpaper/abstract/66213/pink-crystals-hd-wallpapers-66213-521410.png");
 }
 
 .container {
@@ -14,20 +13,52 @@
     font-weight: bold;
     text-align: center;
 }
+#rules {
+    width: 600px;
+    margin: 0 auto;
+}
 
 #crystal1 {
     max-width: 10%;
     height: auto;
+    padding: 10px;
 }
 #crystal2 {
     max-width: 10%;
     height: auto;
+    padding: 10px;
 }
 #crystal3 {
     max-width: 10%;
     height: auto;
+    padding: 10px;
 }
 #crystal4 {
     max-width: 10%;
     height: auto;
+    padding:  10px;
+}
+
+#targetScore {
+    font-size: 150%;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+#totalScore {
+    margin-top: 25px;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+#wins {
+    margin-top: 25px;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+#losses {
+    margin-top: 25px;
+    font-size: 150%;
+    font-weight: bold;
 }
